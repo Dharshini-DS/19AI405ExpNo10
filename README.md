@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
 ### Name: Dharshini DS
-### REgister No: 212221230022
+### Register No: 212221230022
 
 
 # Algorithm or Steps Involved:
